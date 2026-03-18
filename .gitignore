@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Ex1_1.slnx/config
+/StudentsApp/.vs/StudentsApp.slnx
